@@ -1,0 +1,1226 @@
+File type = "ooTextFile"
+Object class = "Formant 1"
+
+xmin = 0 
+xmax = 0.482375 
+nx = 70 
+dx = 0.00625 
+x1 = 0.025562499999999988 
+maxnFormants = 5 
+frame []: 
+    frame [1]:
+        intensity = 0.001995955128222704 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 363.29572 
+                bandwidth = 485.08621 
+            formant [2]:
+                frequency = 2361.9727 
+                bandwidth = 80.749374 
+            formant [3]:
+                frequency = 2861.3521 
+                bandwidth = 439.43283 
+            formant [4]:
+                frequency = 3235.5081 
+                bandwidth = 374.19043 
+            formant [5]:
+                frequency = 4420.4487 
+                bandwidth = 903.35944 
+    frame [2]:
+        intensity = 0.05656174570322037 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 2398.8669 
+                bandwidth = 92.582344 
+            formant [2]:
+                frequency = 2650.0154 
+                bandwidth = 1333.5345 
+            formant [3]:
+                frequency = 3149.7898 
+                bandwidth = 290.25046 
+            formant [4]:
+                frequency = 3633.4167 
+                bandwidth = 3362.3821 
+    frame [3]:
+        intensity = 0.07083787024021149 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 260.73987 
+                bandwidth = 1070.4855 
+            formant [2]:
+                frequency = 2393.4304 
+                bandwidth = 62.482162 
+            formant [3]:
+                frequency = 2810.1404 
+                bandwidth = 495.34634 
+            formant [4]:
+                frequency = 3383.77 
+                bandwidth = 400.85849 
+            formant [5]:
+                frequency = 4482.6655 
+                bandwidth = 1115.1971 
+    frame [4]:
+        intensity = 0.0753878802061081 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 475.72247 
+                bandwidth = 306.35919 
+            formant [2]:
+                frequency = 2351.8279 
+                bandwidth = 166.93521 
+            formant [3]:
+                frequency = 2801.5564 
+                bandwidth = 676.25311 
+            formant [4]:
+                frequency = 3299.0884 
+                bandwidth = 328.43161 
+            formant [5]:
+                frequency = 4047.8933 
+                bandwidth = 540.52985 
+    frame [5]:
+        intensity = 0.0753878802061081 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 439.64441 
+                bandwidth = 133.01883 
+            formant [2]:
+                frequency = 2306.21 
+                bandwidth = 224.25691 
+            formant [3]:
+                frequency = 2634.7258 
+                bandwidth = 500.90045 
+            formant [4]:
+                frequency = 3302.1743 
+                bandwidth = 241.58736 
+            formant [5]:
+                frequency = 4055.9651 
+                bandwidth = 160.86327 
+    frame [6]:
+        intensity = 0.16125158965587616 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 432.56665 
+                bandwidth = 51.475101 
+            formant [2]:
+                frequency = 2323.8325 
+                bandwidth = 188.75439 
+            formant [3]:
+                frequency = 2651.1775 
+                bandwidth = 640.25128 
+            formant [4]:
+                frequency = 3331.0686 
+                bandwidth = 270.04901 
+            formant [5]:
+                frequency = 4047.1528 
+                bandwidth = 91.868057 
+    frame [7]:
+        intensity = 0.16125158965587616 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 414.24783 
+                bandwidth = 42.902718 
+            formant [2]:
+                frequency = 2295.2407 
+                bandwidth = 224.08443 
+            formant [3]:
+                frequency = 2632.9846 
+                bandwidth = 650.10364 
+            formant [4]:
+                frequency = 3309.6953 
+                bandwidth = 288.9259 
+            formant [5]:
+                frequency = 4053.9287 
+                bandwidth = 68.698807 
+    frame [8]:
+        intensity = 0.16125158965587616 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 400.31677 
+                bandwidth = 52.659473 
+            formant [2]:
+                frequency = 2272.3169 
+                bandwidth = 197.88518 
+            formant [3]:
+                frequency = 2601.9412 
+                bandwidth = 510.12851 
+            formant [4]:
+                frequency = 3254.6917 
+                bandwidth = 265.70755 
+            formant [5]:
+                frequency = 4019.8889 
+                bandwidth = 127.42073 
+    frame [9]:
+        intensity = 0.23588967323303223 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 398.88925 
+                bandwidth = 49.801003 
+            formant [2]:
+                frequency = 2271.5698 
+                bandwidth = 176.62836 
+            formant [3]:
+                frequency = 2646.7207 
+                bandwidth = 426.95499 
+            formant [4]:
+                frequency = 3289.9993 
+                bandwidth = 221.39891 
+            formant [5]:
+                frequency = 3984.7305 
+                bandwidth = 155.14012 
+    frame [10]:
+        intensity = 0.23588967323303223 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 393.72052 
+                bandwidth = 40.016541 
+            formant [2]:
+                frequency = 2305.302 
+                bandwidth = 197.0793 
+            formant [3]:
+                frequency = 2580.7036 
+                bandwidth = 552.37225 
+            formant [4]:
+                frequency = 3266.0713 
+                bandwidth = 220.93294 
+            formant [5]:
+                frequency = 3971.2732 
+                bandwidth = 162.37758 
+    frame [11]:
+        intensity = 0.23588967323303223 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 391.09479 
+                bandwidth = 37.9566 
+            formant [2]:
+                frequency = 2317.2073 
+                bandwidth = 187.7211 
+            formant [3]:
+                frequency = 2597.7871 
+                bandwidth = 639.61633 
+            formant [4]:
+                frequency = 3276.3413 
+                bandwidth = 220.93977 
+            formant [5]:
+                frequency = 3951.8708 
+                bandwidth = 181.95285 
+    frame [12]:
+        intensity = 0.2535415291786194 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 388.92194 
+                bandwidth = 35.353695 
+            formant [2]:
+                frequency = 2318.6223 
+                bandwidth = 178.68031 
+            formant [3]:
+                frequency = 2652.042 
+                bandwidth = 598.24103 
+            formant [4]:
+                frequency = 3262.7585 
+                bandwidth = 217.33212 
+            formant [5]:
+                frequency = 3946.2471 
+                bandwidth = 192.02663 
+    frame [13]:
+        intensity = 0.2535415291786194 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 386.90121 
+                bandwidth = 32.446354 
+            formant [2]:
+                frequency = 2322.9683 
+                bandwidth = 186.19215 
+            formant [3]:
+                frequency = 2675.054 
+                bandwidth = 524.52936 
+            formant [4]:
+                frequency = 3247.9785 
+                bandwidth = 204.24757 
+            formant [5]:
+                frequency = 3930.5471 
+                bandwidth = 195.2424 
+    frame [14]:
+        intensity = 0.316668301820755 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 384.6683 
+                bandwidth = 30.804058 
+            formant [2]:
+                frequency = 2322.4216 
+                bandwidth = 182.44914 
+            formant [3]:
+                frequency = 2706.5518 
+                bandwidth = 519.64447 
+            formant [4]:
+                frequency = 3251.4814 
+                bandwidth = 208.90237 
+            formant [5]:
+                frequency = 3930.9082 
+                bandwidth = 205.99649 
+    frame [15]:
+        intensity = 0.35733121633529663 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 382.72757 
+                bandwidth = 32.682636 
+            formant [2]:
+                frequency = 2330.0613 
+                bandwidth = 174.83003 
+            formant [3]:
+                frequency = 2694.9805 
+                bandwidth = 492.30148 
+            formant [4]:
+                frequency = 3269.229 
+                bandwidth = 196.53065 
+            formant [5]:
+                frequency = 3901.3674 
+                bandwidth = 226.29248 
+    frame [16]:
+        intensity = 0.35733121633529663 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 382.60562 
+                bandwidth = 34.858288 
+            formant [2]:
+                frequency = 2327.1902 
+                bandwidth = 166.28532 
+            formant [3]:
+                frequency = 2711.5618 
+                bandwidth = 431.93808 
+            formant [4]:
+                frequency = 3281.7573 
+                bandwidth = 199.83272 
+            formant [5]:
+                frequency = 3904.3813 
+                bandwidth = 209.63863 
+    frame [17]:
+        intensity = 0.35733121633529663 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 382.9519 
+                bandwidth = 36.954521 
+            formant [2]:
+                frequency = 2336.106 
+                bandwidth = 156.91919 
+            formant [3]:
+                frequency = 2712.9551 
+                bandwidth = 450.12509 
+            formant [4]:
+                frequency = 3294.426 
+                bandwidth = 203.48747 
+            formant [5]:
+                frequency = 3894.939 
+                bandwidth = 205.41728 
+    frame [18]:
+        intensity = 0.35733121633529663 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 381.68936 
+                bandwidth = 36.980228 
+            formant [2]:
+                frequency = 2342.0652 
+                bandwidth = 148.17212 
+            formant [3]:
+                frequency = 2718.0522 
+                bandwidth = 447.62064 
+            formant [4]:
+                frequency = 3296.7485 
+                bandwidth = 200.78516 
+            formant [5]:
+                frequency = 3896.9924 
+                bandwidth = 200.90533 
+    frame [19]:
+        intensity = 0.35733121633529663 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 379.6608 
+                bandwidth = 35.790001 
+            formant [2]:
+                frequency = 2342.9888 
+                bandwidth = 159.08362 
+            formant [3]:
+                frequency = 2702.9185 
+                bandwidth = 431.86209 
+            formant [4]:
+                frequency = 3286.3271 
+                bandwidth = 197.7776 
+            formant [5]:
+                frequency = 3894.491 
+                bandwidth = 208.08257 
+    frame [20]:
+        intensity = 0.35733121633529663 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 379.4902 
+                bandwidth = 34.718185 
+            formant [2]:
+                frequency = 2345.0027 
+                bandwidth = 208.30801 
+            formant [3]:
+                frequency = 2598.2793 
+                bandwidth = 410.69391 
+            formant [4]:
+                frequency = 3262.9827 
+                bandwidth = 233.62668 
+            formant [5]:
+                frequency = 3822.126 
+                bandwidth = 258.00455 
+    frame [21]:
+        intensity = 0.35733121633529663 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 380.38004 
+                bandwidth = 36.338715 
+            formant [2]:
+                frequency = 2346.1438 
+                bandwidth = 220.58142 
+            formant [3]:
+                frequency = 2644.0186 
+                bandwidth = 395.98453 
+            formant [4]:
+                frequency = 3264.3845 
+                bandwidth = 225.42821 
+            formant [5]:
+                frequency = 3818.0486 
+                bandwidth = 225.01228 
+    frame [22]:
+        intensity = 0.35733121633529663 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 380.85974 
+                bandwidth = 36.227131 
+            formant [2]:
+                frequency = 2348.1877 
+                bandwidth = 224.71014 
+            formant [3]:
+                frequency = 2640.7063 
+                bandwidth = 378.39429 
+            formant [4]:
+                frequency = 3274.5635 
+                bandwidth = 228.39177 
+            formant [5]:
+                frequency = 3824.6169 
+                bandwidth = 214.6143 
+    frame [23]:
+        intensity = 0.3422795832157135 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 380.61813 
+                bandwidth = 37.551235 
+            formant [2]:
+                frequency = 2351.3535 
+                bandwidth = 236.83975 
+            formant [3]:
+                frequency = 2618.3628 
+                bandwidth = 365.53067 
+            formant [4]:
+                frequency = 3287.5437 
+                bandwidth = 231.82158 
+            formant [5]:
+                frequency = 3818.4861 
+                bandwidth = 210.19801 
+    frame [24]:
+        intensity = 0.3422795832157135 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 379.82269 
+                bandwidth = 39.567078 
+            formant [2]:
+                frequency = 2351.2197 
+                bandwidth = 266.25311 
+            formant [3]:
+                frequency = 2593.7966 
+                bandwidth = 330.64981 
+            formant [4]:
+                frequency = 3297.7969 
+                bandwidth = 231.99377 
+            formant [5]:
+                frequency = 3805.4763 
+                bandwidth = 210.62132 
+    frame [25]:
+        intensity = 0.3422795832157135 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 378.11716 
+                bandwidth = 44.016747 
+            formant [2]:
+                frequency = 2349.7424 
+                bandwidth = 297.69958 
+            formant [3]:
+                frequency = 2576.084 
+                bandwidth = 276.3768 
+            formant [4]:
+                frequency = 3307.7449 
+                bandwidth = 241.42871 
+            formant [5]:
+                frequency = 3806.2048 
+                bandwidth = 215.87556 
+    frame [26]:
+        intensity = 0.3085785508155823 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 374.03577 
+                bandwidth = 54.791618 
+            formant [2]:
+                frequency = 2341.3054 
+                bandwidth = 310.16754 
+            formant [3]:
+                frequency = 2591.9163 
+                bandwidth = 219.76886 
+            formant [4]:
+                frequency = 3338.9958 
+                bandwidth = 246.58339 
+            formant [5]:
+                frequency = 3856.4343 
+                bandwidth = 176.49577 
+    frame [27]:
+        intensity = 0.27950674295425415 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 363.20364 
+                bandwidth = 64.945641 
+            formant [2]:
+                frequency = 2320.76 
+                bandwidth = 338.15811 
+            formant [3]:
+                frequency = 2593.4224 
+                bandwidth = 157.56104 
+            formant [4]:
+                frequency = 3401.2769 
+                bandwidth = 268.68265 
+            formant [5]:
+                frequency = 3862.6409 
+                bandwidth = 154.47713 
+    frame [28]:
+        intensity = 0.25405633449554443 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 347.17587 
+                bandwidth = 66.774437 
+            formant [2]:
+                frequency = 2320.2607 
+                bandwidth = 353.25409 
+            formant [3]:
+                frequency = 2604.574 
+                bandwidth = 130.62161 
+            formant [4]:
+                frequency = 3421.1011 
+                bandwidth = 327.02777 
+            formant [5]:
+                frequency = 3874.8447 
+                bandwidth = 148.38947 
+    frame [29]:
+        intensity = 0.25405633449554443 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 339.5925 
+                bandwidth = 59.980301 
+            formant [2]:
+                frequency = 2323.3572 
+                bandwidth = 360.25211 
+            formant [3]:
+                frequency = 2618.8794 
+                bandwidth = 110.8779 
+            formant [4]:
+                frequency = 3439.6965 
+                bandwidth = 409.8049 
+            formant [5]:
+                frequency = 3907.2864 
+                bandwidth = 143.45247 
+    frame [30]:
+        intensity = 0.25405633449554443 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 346.78711 
+                bandwidth = 66.982735 
+            formant [2]:
+                frequency = 2272.0549 
+                bandwidth = 414.35043 
+            formant [3]:
+                frequency = 2625.2224 
+                bandwidth = 99.759491 
+            formant [4]:
+                frequency = 3496.3613 
+                bandwidth = 434.79416 
+            formant [5]:
+                frequency = 3988.7004 
+                bandwidth = 141.94414 
+    frame [31]:
+        intensity = 0.1425570845603943 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 318.22263 
+                bandwidth = 77.736481 
+            formant [2]:
+                frequency = 2360.0391 
+                bandwidth = 508.65317 
+            formant [3]:
+                frequency = 2630.7561 
+                bandwidth = 102.77912 
+            formant [4]:
+                frequency = 3761.261 
+                bandwidth = 740.61768 
+            formant [5]:
+                frequency = 3976.155 
+                bandwidth = 287.29626 
+    frame [32]:
+        intensity = 0.06459902226924896 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 247.44563 
+                bandwidth = 81.015854 
+            formant [2]:
+                frequency = 2526.7249 
+                bandwidth = 972.02985 
+            formant [3]:
+                frequency = 2633.4802 
+                bandwidth = 94.476669 
+            formant [4]:
+                frequency = 3908.4646 
+                bandwidth = 148.73956 
+    frame [33]:
+        intensity = 0.008681608363986015 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 286.30753 
+                bandwidth = 272.71127 
+            formant [2]:
+                frequency = 2609.5488 
+                bandwidth = 291.09534 
+            formant [3]:
+                frequency = 2631.5962 
+                bandwidth = 2290.7991 
+            formant [4]:
+                frequency = 3872.3127 
+                bandwidth = 656.11389 
+    frame [34]:
+        intensity = 0.000535920262336731 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 158.87019 
+                bandwidth = 476.4935 
+            formant [2]:
+                frequency = 2249.6924 
+                bandwidth = 756.73468 
+            formant [3]:
+                frequency = 2972.5205 
+                bandwidth = 738.74548 
+            formant [4]:
+                frequency = 4084.4292 
+                bandwidth = 419.30707 
+    frame [35]:
+        intensity = 4.177802566118771e-06 
+        nFormants = 3 
+        formant []: 
+            formant [1]:
+                frequency = 2173.8384 
+                bandwidth = 613.75037 
+            formant [2]:
+                frequency = 2959.906 
+                bandwidth = 554.03302 
+            formant [3]:
+                frequency = 4159.8633 
+                bandwidth = 404.54608 
+    frame [36]:
+        intensity = 3.0331600555655314e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1156.9729 
+                bandwidth = 1910.4623 
+            formant [2]:
+                frequency = 2246.8662 
+                bandwidth = 864.11096 
+            formant [3]:
+                frequency = 3076.2666 
+                bandwidth = 644.88879 
+            formant [4]:
+                frequency = 4067.0813 
+                bandwidth = 1162.2238 
+    frame [37]:
+        intensity = 3.0331600555655314e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1452.7405 
+                bandwidth = 1083.5179 
+            formant [2]:
+                frequency = 2193.6509 
+                bandwidth = 684.5517 
+            formant [3]:
+                frequency = 3050.54 
+                bandwidth = 479.00781 
+            formant [4]:
+                frequency = 4133.4033 
+                bandwidth = 689.40918 
+    frame [38]:
+        intensity = 3.0331600555655314e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1853.0914 
+                bandwidth = 979.57898 
+            formant [2]:
+                frequency = 2372.2712 
+                bandwidth = 795.17725 
+            formant [3]:
+                frequency = 3154.1116 
+                bandwidth = 721.90594 
+            formant [4]:
+                frequency = 4115.4902 
+                bandwidth = 777.52722 
+    frame [39]:
+        intensity = 3.0331600555655314e-06 
+        nFormants = 3 
+        formant []: 
+            formant [1]:
+                frequency = 2232.2229 
+                bandwidth = 480.78772 
+            formant [2]:
+                frequency = 2874.9062 
+                bandwidth = 870.70764 
+            formant [3]:
+                frequency = 3832.3994 
+                bandwidth = 847.40186 
+    frame [40]:
+        intensity = 3.0331600555655314e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 960.11481 
+                bandwidth = 1358.1279 
+            formant [2]:
+                frequency = 2336.8516 
+                bandwidth = 504.37445 
+            formant [3]:
+                frequency = 3131.7854 
+                bandwidth = 862.87201 
+            formant [4]:
+                frequency = 4059.7119 
+                bandwidth = 755.66376 
+    frame [41]:
+        intensity = 3.0331600555655314e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1351.1748 
+                bandwidth = 776.95331 
+            formant [2]:
+                frequency = 2327.0745 
+                bandwidth = 560.42767 
+            formant [3]:
+                frequency = 3169.4744 
+                bandwidth = 936.36707 
+            formant [4]:
+                frequency = 4151.5498 
+                bandwidth = 658.81757 
+    frame [42]:
+        intensity = 3.0331600555655314e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1538.8546 
+                bandwidth = 763.32971 
+            formant [2]:
+                frequency = 2454.4214 
+                bandwidth = 522.21045 
+            formant [3]:
+                frequency = 3626.6196 
+                bandwidth = 668.31116 
+            formant [4]:
+                frequency = 4120.0078 
+                bandwidth = 3004.0317 
+    frame [43]:
+        intensity = 9.777897957974346e-07 
+        nFormants = 3 
+        formant []: 
+            formant [1]:
+                frequency = 1379.296 
+                bandwidth = 739.27844 
+            formant [2]:
+                frequency = 2494.4836 
+                bandwidth = 498.95834 
+            formant [3]:
+                frequency = 3559.2871 
+                bandwidth = 620.84094 
+    frame [44]:
+        intensity = 3.6451378946367186e-06 
+        nFormants = 3 
+        formant []: 
+            formant [1]:
+                frequency = 1287.0066 
+                bandwidth = 984.98865 
+            formant [2]:
+                frequency = 2411.3452 
+                bandwidth = 538.55743 
+            formant [3]:
+                frequency = 3565.6926 
+                bandwidth = 768.66187 
+    frame [45]:
+        intensity = 0.007069470826536417 
+        nFormants = 3 
+        formant []: 
+            formant [1]:
+                frequency = 1137.0409 
+                bandwidth = 860.53271 
+            formant [2]:
+                frequency = 2384.9492 
+                bandwidth = 514.40625 
+            formant [3]:
+                frequency = 3412.3706 
+                bandwidth = 614.07458 
+    frame [46]:
+        intensity = 0.12786456942558289 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 398.31845 
+                bandwidth = 595.57526 
+            formant [2]:
+                frequency = 1708.1793 
+                bandwidth = 643.47162 
+            formant [3]:
+                frequency = 2373.6196 
+                bandwidth = 542.02582 
+            formant [4]:
+                frequency = 3507.5891 
+                bandwidth = 631.68927 
+    frame [47]:
+        intensity = 0.12786456942558289 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 636.99304 
+                bandwidth = 794.4389 
+            formant [2]:
+                frequency = 1931.8933 
+                bandwidth = 498.46295 
+            formant [3]:
+                frequency = 2502.176 
+                bandwidth = 615.68353 
+            formant [4]:
+                frequency = 3476.311 
+                bandwidth = 498.09433 
+    frame [48]:
+        intensity = 0.12786456942558289 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 768.20038 
+                bandwidth = 955.70374 
+            formant [2]:
+                frequency = 1950.3263 
+                bandwidth = 568.06903 
+            formant [3]:
+                frequency = 2628.0266 
+                bandwidth = 563.65448 
+            formant [4]:
+                frequency = 3636.031 
+                bandwidth = 806.09143 
+    frame [49]:
+        intensity = 0.12786456942558289 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 971.42615 
+                bandwidth = 906.90674 
+            formant [2]:
+                frequency = 1946.8093 
+                bandwidth = 558.89819 
+            formant [3]:
+                frequency = 2689.7031 
+                bandwidth = 331.90317 
+            formant [4]:
+                frequency = 3687.6655 
+                bandwidth = 639.86591 
+            formant [5]:
+                frequency = 4554.6611 
+                bandwidth = 1503.6169 
+    frame [50]:
+        intensity = 0.12786456942558289 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 883.87036 
+                bandwidth = 803.62927 
+            formant [2]:
+                frequency = 2026.2913 
+                bandwidth = 456.89667 
+            formant [3]:
+                frequency = 2775.2449 
+                bandwidth = 258.32706 
+            formant [4]:
+                frequency = 3757.5083 
+                bandwidth = 371.686 
+    frame [51]:
+        intensity = 0.12786456942558289 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 699.77966 
+                bandwidth = 753.60846 
+            formant [2]:
+                frequency = 2074.5562 
+                bandwidth = 414.73743 
+            formant [3]:
+                frequency = 2785.1628 
+                bandwidth = 291.16754 
+            formant [4]:
+                frequency = 3776.9983 
+                bandwidth = 254.35088 
+    frame [52]:
+        intensity = 0.12786456942558289 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 585.89258 
+                bandwidth = 640.52631 
+            formant [2]:
+                frequency = 2101.2595 
+                bandwidth = 653.72107 
+            formant [3]:
+                frequency = 2627.6941 
+                bandwidth = 344.49048 
+            formant [4]:
+                frequency = 3747.634 
+                bandwidth = 401.10049 
+            formant [5]:
+                frequency = 4841.3076 
+                bandwidth = 1124.7667 
+    frame [53]:
+        intensity = 0.12786456942558289 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 508.04562 
+                bandwidth = 282.89206 
+            formant [2]:
+                frequency = 2135.3809 
+                bandwidth = 262.16733 
+            formant [3]:
+                frequency = 2614.7791 
+                bandwidth = 357.83417 
+            formant [4]:
+                frequency = 3687.0422 
+                bandwidth = 300.16748 
+            formant [5]:
+                frequency = 4683.1362 
+                bandwidth = 647.33356 
+    frame [54]:
+        intensity = 0.06150920316576958 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 462.70129 
+                bandwidth = 256.49576 
+            formant [2]:
+                frequency = 2154.1746 
+                bandwidth = 126.71997 
+            formant [3]:
+                frequency = 2586.5613 
+                bandwidth = 183.79736 
+            formant [4]:
+                frequency = 3594.8123 
+                bandwidth = 213.17046 
+            formant [5]:
+                frequency = 4589.8315 
+                bandwidth = 341.22638 
+    frame [55]:
+        intensity = 0.006040053442120552 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 456.87335 
+                bandwidth = 131.45644 
+            formant [2]:
+                frequency = 2150.1467 
+                bandwidth = 162.27281 
+            formant [3]:
+                frequency = 2659.8079 
+                bandwidth = 412.22849 
+            formant [4]:
+                frequency = 3588.8789 
+                bandwidth = 389.69452 
+            formant [5]:
+                frequency = 4446.6826 
+                bandwidth = 201.814 
+    frame [56]:
+        intensity = 0.0020490926690399647 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 488.41946 
+                bandwidth = 65.759842 
+            formant [2]:
+                frequency = 1968.3458 
+                bandwidth = 136.04736 
+            formant [3]:
+                frequency = 2823.377 
+                bandwidth = 390.78955 
+            formant [4]:
+                frequency = 3709.4348 
+                bandwidth = 950.52856 
+            formant [5]:
+                frequency = 4443.1099 
+                bandwidth = 260.85004 
+    frame [57]:
+        intensity = 0.0010941962245851755 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 486.7746 
+                bandwidth = 83.430305 
+            formant [2]:
+                frequency = 1969.771 
+                bandwidth = 133.70721 
+            formant [3]:
+                frequency = 2972.386 
+                bandwidth = 470.40555 
+            formant [4]:
+                frequency = 4248.8477 
+                bandwidth = 603.95026 
+    frame [58]:
+        intensity = 4.339566658018157e-05 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 534.13446 
+                bandwidth = 224.51656 
+            formant [2]:
+                frequency = 2060.0356 
+                bandwidth = 339.3736 
+            formant [3]:
+                frequency = 3043.478 
+                bandwidth = 622.81012 
+            formant [4]:
+                frequency = 3867.0425 
+                bandwidth = 390.92752 
+    frame [59]:
+        intensity = 1.1615383300522808e-05 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 364.45926 
+                bandwidth = 334.37051 
+            formant [2]:
+                frequency = 1906.4532 
+                bandwidth = 529.29114 
+            formant [3]:
+                frequency = 2869.1094 
+                bandwidth = 774.91809 
+            formant [4]:
+                frequency = 3889.011 
+                bandwidth = 543.65771 
+    frame [60]:
+        intensity = 8.972189107225859e-07 
+        nFormants = 5 
+        formant []: 
+            formant [1]:
+                frequency = 329.92526 
+                bandwidth = 527.40082 
+            formant [2]:
+                frequency = 2108.8877 
+                bandwidth = 735.05005 
+            formant [3]:
+                frequency = 3034.8906 
+                bandwidth = 1307.9152 
+            formant [4]:
+                frequency = 3224.6272 
+                bandwidth = 3021.0007 
+            formant [5]:
+                frequency = 4258.0674 
+                bandwidth = 575.16254 
+    frame [61]:
+        intensity = 1.9803876227797446e-07 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1060.7142 
+                bandwidth = 1223.701 
+            formant [2]:
+                frequency = 2438.6223 
+                bandwidth = 615.53442 
+            formant [3]:
+                frequency = 3223.2463 
+                bandwidth = 1052.8562 
+            formant [4]:
+                frequency = 4346.0376 
+                bandwidth = 448.34024 
+    frame [62]:
+        intensity = 1.9803876227797446e-07 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1096.507 
+                bandwidth = 697.54315 
+            formant [2]:
+                frequency = 2169.5134 
+                bandwidth = 617.67413 
+            formant [3]:
+                frequency = 3064.0024 
+                bandwidth = 434.89563 
+            formant [4]:
+                frequency = 4259.0361 
+                bandwidth = 594.06134 
+    frame [63]:
+        intensity = 1.9803876227797446e-07 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1205.6761 
+                bandwidth = 652.03162 
+            formant [2]:
+                frequency = 2156.6802 
+                bandwidth = 505.67542 
+            formant [3]:
+                frequency = 3047.2373 
+                bandwidth = 330.33813 
+            formant [4]:
+                frequency = 4278.0869 
+                bandwidth = 780.98383 
+    frame [64]:
+        intensity = 1.9803876227797446e-07 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1262.9614 
+                bandwidth = 678.5141 
+            formant [2]:
+                frequency = 2344.4478 
+                bandwidth = 515.81396 
+            formant [3]:
+                frequency = 3174.5518 
+                bandwidth = 699.83771 
+            formant [4]:
+                frequency = 4226.7554 
+                bandwidth = 1042.2638 
+    frame [65]:
+        intensity = 1.2530858839454595e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1291.0593 
+                bandwidth = 606.12738 
+            formant [2]:
+                frequency = 2454.3032 
+                bandwidth = 422.591 
+            formant [3]:
+                frequency = 3523.0032 
+                bandwidth = 679.70514 
+            formant [4]:
+                frequency = 4657.5581 
+                bandwidth = 1037.5822 
+    frame [66]:
+        intensity = 1.2530858839454595e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1308.9927 
+                bandwidth = 572.75964 
+            formant [2]:
+                frequency = 2353.7537 
+                bandwidth = 590.03485 
+            formant [3]:
+                frequency = 3582.968 
+                bandwidth = 484.38818 
+            formant [4]:
+                frequency = 3884.2522 
+                bandwidth = 2198.052 
+    frame [67]:
+        intensity = 1.2530858839454595e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1385.521 
+                bandwidth = 566.26862 
+            formant [2]:
+                frequency = 2642.6006 
+                bandwidth = 731.89423 
+            formant [3]:
+                frequency = 3285.7764 
+                bandwidth = 2900.2104 
+            formant [4]:
+                frequency = 3776.925 
+                bandwidth = 665.05933 
+    frame [68]:
+        intensity = 1.2530858839454595e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1435.1399 
+                bandwidth = 652.78247 
+            formant [2]:
+                frequency = 2785.7515 
+                bandwidth = 1017.6614 
+            formant [3]:
+                frequency = 3011.3132 
+                bandwidth = 952.70471 
+            formant [4]:
+                frequency = 4048.5151 
+                bandwidth = 459.07965 
+    frame [69]:
+        intensity = 1.2530858839454595e-06 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1289.9451 
+                bandwidth = 844.81238 
+            formant [2]:
+                frequency = 2551.6191 
+                bandwidth = 462.65796 
+            formant [3]:
+                frequency = 3242.9692 
+                bandwidth = 676.4834 
+            formant [4]:
+                frequency = 4054.3218 
+                bandwidth = 303.77841 
+    frame [70]:
+        intensity = 1.9002829503733665e-05 
+        nFormants = 4 
+        formant []: 
+            formant [1]:
+                frequency = 1237.6716 
+                bandwidth = 744.18872 
+            formant [2]:
+                frequency = 2412.981 
+                bandwidth = 487.72562 
+            formant [3]:
+                frequency = 3086.8843 
+                bandwidth = 643.36957 
+            formant [4]:
+                frequency = 4018.3997 
+                bandwidth = 373.12036 

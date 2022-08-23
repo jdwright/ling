@@ -1,0 +1,4 @@
+pot
+bought
+taught
+

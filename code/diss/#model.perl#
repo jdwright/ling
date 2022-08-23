@@ -1,0 +1,9 @@
+#!/usr/bin/perl
+
+# Program:     model.perl
+# Written by:  jdwright
+# Purpose:     
+
+sub learn {
+  my ($person,$phoneme,$f1,$f2) = @_;
+  
