@@ -1,0 +1,13 @@
+function out = balance(vec)
+mid = floor(length(vec));
+
+a = sum(vec(1:mid));
+b = sum(vec(mid+1:length(vec)));
+s = a+b;
+d = abs(a-b);
+
+weights = mid:-1:-mid;
+total = sum(vec);
+    vec = vec / total;
+%    out = weights * vec / mid;
+    out = abs(weights * vec / mid);

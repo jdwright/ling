@@ -1,0 +1,10 @@
+function batch(y)
+sp = sgram(y,.005,.001,1024
+sp = sgram(y,.005,.001,1024,30,1500);
+c = sp_max(sp,5,10);
+x = search(c,1,10) + 1;
+[r,c] = size(sp);
+y = (r-x)/512*8000;
+fprintf(fid,'p_m115_fxqs.sph %d\n',y);
+pause(2);
+fclose(fid);

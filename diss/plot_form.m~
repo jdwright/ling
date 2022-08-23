@@ -1,0 +1,14 @@
+function out = plot_form(fs)
+nyq = 11025;
+s = (0:25:nyq) * 2 * pi * j;
+out = ones(1,length(s));
+bw = [ 40 50 70 100 200 ];
+f = [ fs 5500:1000:200500 ];
+for
+    sn = f*2*pi*j + 50 * pi;
+    snc = conj(sn);
+    out = out .* sn*snc./((s-sn).*(s-snc));
+end
+%out = 20*log10(abs(out));
+out = abs(out);
+end

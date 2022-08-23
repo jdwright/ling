@@ -1,0 +1,37 @@
+function x = f1_detector(data,rs,cs,sx,sy)
+[r,c] = size(data);
+m = .0000001;
+x = 0;
+y = 0;
+a = r-rs;
+b = 1+cs;
+loop = 1;
+while loop
+    loop = 0;
+%    if detect_help(a,r-rs,cs+1,c-cs,a,b)
+    m1 = sum(sum(data(a-1-rs:a-1+rs,b-cs:b+cs)));
+    if m1/m > 1
+        m = m1;
+        a = a - 1;
+        loop = 1
+    end
+    m2 = sum(sum(data(a-rs:a+rs,b+1-cs:b+1+cs)));
+    if m2/m > 1
+        m = m2;
+        b = b + 1;
+    end
+    
+for a = rs+1:r-rs
+    for b = cs+1:c-cs
+        m2 = sum(sum(data(a-rs:a+rs,b-cs:b+cs)));
+        if m2 ~= 0 && m2/m > .999
+            m = m2;
+            x = a;
+            y = b;
+        end
+    end
+end
+imagesc(data);
+hold on
+rectangle('Position',[ y-cs x-rs cs*2+1 rs*2+1 ]);
+hold off

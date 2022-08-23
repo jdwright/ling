@@ -1,0 +1,45 @@
+function [out,outp] = make_vowel2(filters,source,per_samps,fs,ampq)
+samp_rate = 22050;
+num_samp = length(source);
+
+fc = f_contour(num_samp,fs);
+
+%hold on;
+%plot(f1c)
+%plot(f2c);
+%plot(f3c)
+%hold off
+
+% quantize formants for filters
+fc(1,:) = (fc(1,:)-200)/10;
+fc(2,:) = (fc(2,:)-1000)/20;
+fc(3,:) = (fc(3,:)-2000)/20;
+
+fc = round(fc);
+
+fti = [ 101*51 51 1 ] * fc + 1;
+
+out = zeros(1,num_samp);
+
+f1 
+f2 101*51
+f3 51
+
+sampn = 1;
+for per_samp = per_samps
+    vec = sampn:sampn+per_samp-1;
+    midp = sampn+round(per_samp/2);
+    ft = filters(f(1,midp),f(2,midp),f(3,midp),:);
+    ft = ft(:);
+    b = ft(1:45);
+    a = ft(46:90);
+    out(vec) = filter(b,a,source(vec));
+    sampn = sampn + per_samp;
+end
+
+ns = .01;
+%out = out + random('norm',0,ns,1,length(out));
+%out = [random('norm',0,ns,1,5000) out random('norm',0,ns,1,5000)];
+out = out / max([ max(out) abs(min(out)) ]) * ampq;
+outp = audioplayer(out,samp_rate);
+end

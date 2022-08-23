@@ -1,0 +1,20 @@
+function out = sp_max(data,bw,tw)
+% bw and tw are half-bandwidths
+% find max energy frame, in time domain
+[r,c] = size(data);
+r2 = r-bw+1;
+c2 = c-tw+1;
+out = zeros(r,c);
+for a = 1+tw:c2-tw % time domain
+    mxv = 0;
+    mxb = 1;
+    for b = 1+bw:r2-bw % freq domain
+        frame = data(b-bw:b+bw,a-tw:a+tw);
+        mx = sum(frame(:));
+        if mx > mxv
+            mxv = mx;
+            mxb = b;
+        end
+    end
+    out(mxb,a) = 1;
+end

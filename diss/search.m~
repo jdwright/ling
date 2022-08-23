@@ -1,0 +1,20 @@
+function search(data)
+[r,c] = size(data);
+rs = 50;
+cs = 10;
+m = 0;
+for a = rs+1:r-rs
+    for b = cs+1:c-cs
+        sa = data(a-rs:a+rs,b-cs:b+cs);
+        m2 = sum(sa(:));
+        if m2 > m
+            m = m2;
+            x = a;
+            y = b;
+        end
+    end
+end
+imagesc(data);
+hold on
+rectangle('Position',[ x-rs x+r
+hold off
